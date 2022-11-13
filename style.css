@@ -1,6 +1,8 @@
 /* Tag selector to select the 'body' element */
 html{
-  background-color:cyan;
+  background-color: #00b3e6;
+  
+
 }
 body {
   width: 700px;
@@ -21,6 +23,11 @@ body {
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
+  width: 700px;
+  margin: auto;
+  font-family: Helvetica Neue;
+  background-color: white;
+  padding: 30px;
   /* Your code here! */
 }
 
